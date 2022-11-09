@@ -1,0 +1,22 @@
+﻿  Fountain.cpp
+d:\cw\qianmo\qianmo\fountain.cpp(148): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\cw\qianmo\qianmo\fountain.cpp(150): warning C4018: “<”: 有符号/无符号不匹配
+d:\cw\qianmo\qianmo\fountain.cpp(167): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  ps.cpp
+  qianmo.cpp
+d:\cw\qianmo\qianmo\render.h(152): warning C4305: “初始化”: 从“double”到“float”截断
+d:\cw\qianmo\qianmo\render.h(193): warning C4018: “<”: 有符号/无符号不匹配
+d:\cw\qianmo\qianmo\render.h(217): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+d:\cw\qianmo\qianmo\render.h(219): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+d:\cw\qianmo\qianmo\render.h(221): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+d:\cw\qianmo\qianmo\qianmo.cpp(49): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\cw\qianmo\qianmo\qianmo.cpp(334): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\cw\qianmo\qianmo\qianmo.cpp(607): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cw\qianmo\qianmo\qianmo.cpp(608): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cw\qianmo\qianmo\qianmo.cpp(611): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\cw\qianmo\qianmo\qianmo.cpp(612): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\cw\qianmo\qianmo\qianmo.cpp(613): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cw\qianmo\qianmo\qianmo.cpp(614): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cw\qianmo\qianmo\qianmo.cpp(619): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  qianmo.vcxproj -> D:\cw\qianmo\Debug\qianmo.exe
